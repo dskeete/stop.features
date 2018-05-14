@@ -1,1 +1,1 @@
-# stop-net.features
+# stop.features
